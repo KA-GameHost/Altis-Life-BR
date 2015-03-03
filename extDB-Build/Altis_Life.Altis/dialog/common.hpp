@@ -74,6 +74,9 @@ class Life_RscListNBox
 	color[] = {0.95,0.95,0.95,1};
 	colorText[] = {1,1,1,1.0};
 	colorDisabled[] = {1,1,1,0.25};
+	colorPicture[] = {1,1,1,1};
+	colorPictureSelected[] = {1,1,1,1};
+	colorPictureDisabled[] = {1,1,1,1};
 	colorScrollbar[] = {0.95,0.95,0.95,1};
 	colorSelect[] = {0,0,0,1};
 	colorSelect2[] = {0,0,0,1};
