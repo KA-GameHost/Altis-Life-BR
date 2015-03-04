@@ -1,6 +1,6 @@
 author = "Tonic";
 onLoadName = "Altis Life RPG v3.1.5.0";
-onLoadMission = "KA GameHost Server - Altis Life v0.17 Open BETA";
+onLoadMission = "KA GameHost Server - Altis Life v0.18 Open BETA";
 joinUnassigned = 1;
 respawn = BASE;
 respawndelay = 5;
